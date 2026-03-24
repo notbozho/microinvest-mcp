@@ -1,3 +1,5 @@
+🌐 [Български](./README.bg.md)
+
 # Microinvest-MCP
 
 MCP server for Microinvest Warehouse Pro, Microinvest Warehouse Mobile, and Microinvest Warehouse Open.
